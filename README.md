@@ -1,7 +1,10 @@
 # Portfolio-Clash-Theme
 This is portfolio | Clash Of Clans Theme
+
 Clash Portfolio: A Medieval-Themed Frontend Developer Showcase
-This creative portfolio website presents John Doe's web development skills through an immersive Clash of Clans-inspired medieval theme. The site features:
+This creative portfolio website presents John Doe's web development skills through an immersive Clash of Clans-inspired medieval theme. 
+
+The site features:
 
 Fortress Design: Rich parchment textures, golden emblems, and medieval castle aesthetics throughout the UI
 Village Overview: About section styled as interactive village buildings that reveal personal background information
